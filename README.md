@@ -2,7 +2,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mylesh-dev&theme=onedark)](https://github.com/mylesh-dev/github-profile-trophy)
 
-- 🔭 I’m currently working on Spring test webchat project, DevOps stuff
+- 🔭 I’m currently working on Personal Spring webchat project, also doing some DevOps stuff
 - 🌱 I’m currently learning Godot
 
 <!--
