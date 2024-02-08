@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=mylesh-dev&theme=onedark)](https://github.com/mylesh-dev/github-profile-trophy)
+
+- 🔭 I’m currently working on Spring test webchat project, DevOps stuff
+- 🌱 I’m currently learning Godot
+
 <!--
 **mylesh-dev/mylesh-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
