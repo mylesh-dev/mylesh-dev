@@ -2,8 +2,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mylesh-dev&theme=onedark)](https://github.com/mylesh-dev/github-profile-trophy)
 
-- 🔭 I’m currently working on Personal Spring webchat project, also doing some DevOps stuff
-- 🌱 I’m currently learning Godot
+- 🌱 I'm currently learning Godot, developing a game from a tutorial to something of my own.
 
 <!--
 **mylesh-dev/mylesh-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
